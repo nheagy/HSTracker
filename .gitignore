@@ -54,3 +54,6 @@ archives
 
 # Appcast private key
 dsa_priv.pem
+
+# Local development configuration
+Config.local.xcconfig
